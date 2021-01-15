@@ -1,16 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>ДЗ</title>
-    <style>
-   body {
-    background: url(aa.jpg) no-repeat;
-    -moz-background-size: 130%;
-    -webkit-background-size: 130%;
-    -o-background-size: 130%;
-    background-size: 130%;
-   }
-  </style>
 </head>
 <body text="ffffff">
     <p align="center">
