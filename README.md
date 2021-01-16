@@ -1,5 +1,5 @@
 <html>
-<body text="ffffff">
+<body>
     <p align="center">
         <font size="+4">Домашнее задание</font>
         <hr>
