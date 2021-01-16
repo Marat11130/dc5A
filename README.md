@@ -4,7 +4,7 @@
         <font size="+4">Домашнее задание</font>
         <p align="left">
         <font size="+2">Неделя: 18-23 января</font>
-	<table border="4" width="890" cellpadding="4" cellspacing="0">
+	<table border="4" width="700" cellpadding="4" cellspacing="0">
 	<tr>
 	<th>Предмет</th><th>Понедельник</th><th>Вторник</th><th>Среда</th><th>Четверг</th><th>Пятница</th><th>Суббота</th>
 	</tr>
