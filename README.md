@@ -1,7 +1,4 @@
 <html>
-<head>
-	<title>ДЗ</title>
-</head>
 <body text="ffffff">
     <p align="center">
         <font size="+4">Домашнее задание</font>
