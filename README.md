@@ -18,13 +18,16 @@
          <th>Родной язык</th><th></th><th></th><th></th><th></th><th></th><th></th>
     </tr>
     <tr>
+	   <th>Англ.яз (1 группа)</th><th></th><th></th><th></th><th></th><th></th><th></th>
+    </tr>
+    <tr>
     	<th>Англ.яз (2 группа)</th><th></th><th></th><th></th><th></th><th></th><th></th>
     </tr>
     <tr>
     	<th>История</th><th></th><th></th><th></th><th></th><th></th><th></th>
     </tr>
     <tr>
-    	<th>ОДНКНР</th><th></th><th></th><th></th><th></th><th></th><th></th>
+    	<th>ОДНКР</th><th></th><th></th><th></th><th></th><th></th><th></th>
     </tr>
     <tr>
     	<th>География</th><th></th><th></th><th></th><th></th><th></th><th></th>
@@ -42,7 +45,10 @@
         <th>Музыка</th><th></th><th></th><th></th><th></th><th></th><th></th>
     </tr>
     <tr>
-    	<th>Технология</th><th></th><th></th><th></th><th></th><th></th><th></th>
+    	<th>Технология (1 группа)</th><th></th><th></th><th></th><th></th><th></th><th></th>
+    </tr>
+     <tr>
+    	<th>Технология (2 группа)</th><th></th><th></th><th></th><th></th><th></th><th></th>
     </tr>
     <tr>
     	<th>Физкультура</th><th></th><th></th><th></th><th></th><th></th><th></th>
